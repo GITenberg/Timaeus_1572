@@ -1,5 +1,5 @@
 _repo: Timaeus_1572
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Jowett, Benjamin
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '94'
     url: http://www.gutenberg.org/2009/agents/94
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Plato
@@ -21,6 +24,8 @@ creator:
 description: Timaeus is one of Plato's dialogues, mostly in the form of a long monologue
   given by the title character. The work puts forward speculation on the nature of
   the physical world and human beings.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1572#Timaeus
 gutenberg_issued: '1998-12-01'
 gutenberg_type: Text
 identifiers:
